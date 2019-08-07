@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="title">CalculadoraIMC</string>
+    <string name="txtAltura">Altura</string>
+    <string name="txtPeso">Peso</string>
+    <string name="txtSexo">Sexo</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="hint_altura">Ex.: 1.75 m</string>
+    <string name="hint_peso">Ex.: 20 kg</string>
+    <string name="txtPesoIdeal">Peso Ideal</string>
+    <string name="desc">Desenvolvido por Arthur</string>
+
+    <string name="label_masc">Masculino</string>
+    <string name="label_fem">Feminino</string>
+</resources>
